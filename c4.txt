@@ -1,0 +1,6 @@
+No, Java full-stack and JavaScript full-stack are not the same. Here are the key differences:
+
+Java Full-Stack
+Frontend: Typically uses frameworks like Angular, React, or Vue.js (which are JavaScript-based).
+Backend: Uses Java with frameworks like Spring Boot, Hibernate, etc.
+Database: Can use S
